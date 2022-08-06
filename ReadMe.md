@@ -13,6 +13,12 @@ A simple machine learning linear regression implementation using Python
 * numpy
 * matplotlib
 
+
+### Set up
+
+* Install dependencies `pip install -r requirements.txt`
+* Running the main.py `python main.py`
+
 ### Whats inside the program
 
 Data used for this implementation is [Student Performance](https://archive.ics.uci.edu/ml/datasets/Student+Performance) from **ics.uci.edu**
